@@ -15,7 +15,13 @@
 
 ## Sobre o Projeto
 
-Projeto do curso [React: conhecendo a biblioteca React Router](https://cursos.alura.com.br/course/react-biblioteca-react-router), instruido por [**Luiz Fernando**](https://github.com/lfrprazeres).
+Esse projeto foi feito em dois cursos.
+
+O primeiro curso foi [React: conhecendo a biblioteca React Router](https://cursos.alura.com.br/course/react-biblioteca-react-router), com o objetivo de construir a aplicação.
+
+E o segundo foi [React: otimizando a performance](https://cursos.alura.com.br/course/react-otimizando-performance), com o objetivo de aumentar a performance da aplicação.
+
+Ambos foram instruido por [**Luiz Fernando**](https://github.com/lfrprazeres).
 
 ## Objetivos do Projeto
 
@@ -24,7 +30,12 @@ Projeto do curso [React: conhecendo a biblioteca React Router](https://cursos.al
 - Utilizar o pacote react-router-dom de forma simples e prática, aprendendo todos os conceitos principais da biblioteca;
 - Descubrir como a biblioteca se integra com o navegador e utiliza de coisas nativas para mudar as rotas e compartilhar estados;
 - Criar telas navegando entre elas de diversas formas diferentes e reaproveite componentes eles elas;
-- Entender sobre nested routes e como criá-las para reaproveitar código e resolver problemas.
+- Entender sobre nested routes e como criá-las para reaproveitar código e resolver problemas;
+- Saber como analisar componentes e páginas que podem ser mais performáticas;
+- Conhecer a fundo como o React renderiza seus componentes, também termos como Virtual DOM e Reconciliation;
+- Aprender como memoização e imutabilidade se complementam e porque eles são tão importantes no universo React;
+- Entender diferenças entre memo e useMemo e quando utilizar cada um deles;
+- Utilizar a extensão React Devtools de forma prática para analisar tempos de renderização de componentes e o motivo dos componentes estarem atualizando.
 
 ## Tecnolgias Utilizadas
 
